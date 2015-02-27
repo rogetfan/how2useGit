@@ -2,13 +2,13 @@
 
 # 目录
 ====
-* [Git与SVN的区别](http://10.10.212.92/test/how-to-use-git/wikis/DiffBetweenGitAndSvn)
-* [如何使用Git](http://10.10.212.92/test/how-to-use-git/wikis/HowToUseGit)
-* [使用Git，我们能够做什么](http://10.10.212.92/test/how-to-use-git/wikis/WhatWeCanDoInGit)
-* [Git GUI使用方法](http://10.10.212.92/test/how-to-use-git/wikis/HowToUseGitGUI)
-* [Eclipse上使用Git](http://10.10.212.92/test/how-to-use-git/wikis/HowToUseGitInEclipse)
-* [Xcode上使用Git](http://10.10.212.92/test/how-to-use-git/wikis/HowToUseGitInXcode)
-* [SVN迁移到Git](http://10.10.212.92/test/how-to-use-git/wikis/MoveSVNToGit)
+* [Git与SVN的区别](https://github.com/rogetfan/how2useGit/wiki/DiffBetweenGitAndSvn)
+* [如何使用Git](https://github.com/rogetfan/how2useGit/wiki/HowToUseGit)
+* [使用Git，我们能够做什么](https://github.com/rogetfan/how2useGit/wiki/WhatWeCanDoInGit)
+* [Git GUI使用方法](https://github.com/rogetfan/how2useGit/wiki/HowToUseGitGUI)
+* [Eclipse上使用Git](https://github.com/rogetfan/how2useGit/wiki/HowToUseGitInEclipse)
+* [Xcode上使用Git](https://github.com/rogetfan/how2useGit/wiki/HowToUseGitInXcode)
+* [SVN迁移到Git](https://github.com/rogetfan/how2useGit/wiki/MoveSVNToGit)
 
 # 引用
 ====
