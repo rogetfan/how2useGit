@@ -8,5 +8,3 @@
 *[Eclipse上使用Git]()
 *[Xcode上使用Git]()
 *[SVN迁移到Git]()
-
-  
